@@ -8,13 +8,14 @@
 import Parsing
 
 class Day4: Day {
+  
   let ranges = {
-    let range = Parse(ClosedRange.init(uncheckedBounds:)) {
+    let range = ParsePrint(.memberwise(ClosedRange.init(uncheckedBounds:))) {
       Int.parser()
       "-".utf8
       Int.parser()
     }
-    let twoRanges = Parse {
+    let twoRanges = ParsePrint {
       range
       ",".utf8
       range
