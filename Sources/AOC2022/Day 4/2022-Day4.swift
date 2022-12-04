@@ -5,43 +5,32 @@
 //  Created by Dave DeLong on 10/12/22.
 //  Copyright © 2022 Dave DeLong. All rights reserved.
 //
+import Parsing
 
 class Day4: Day {
-  func part1() async throws -> Int {
-    let ranges = input().lines.words(separatedBy: ",").map {
-      words in
-      words.raw.map { $0.split(on: "-") }
+  func parse() throws -> [(ClosedRange<Int>, ClosedRange<Int>)] {
+    let range = Parse(ClosedRange.init(uncheckedBounds:)) {
+      Int.parser()
+      "-".utf8
+      Int.parser()
     }
-    .map { range in
-      let range1 = range[0].map { Int("\($0)")! }
-      let range2 = range[1].map { Int("\($0)")! }
-      return (range1[0]...range1[1],
-              range2[0]...range2[1])
+    let twoRanges = Parse {
+      range
+      ",".utf8
+      range
     }
-    for range in ranges {
-      print(range.0, range.1, intersect(range.0, range.1))
+    let ranges = Many {
+      twoRanges
+    } separator: {
+      "\n".utf8
     }
-
-    return ranges.filter(intersect).count
-  }
-
-  func part2() async throws -> Int {
-    let ranges = input().lines.words(separatedBy: ",").map {
-      words in
-      words.raw.map { $0.split(on: "-") }
-    }
-    .map { range in
-      let range1 = range[0].map { Int("\($0)")! }
-      let range2 = range[1].map { Int("\($0)")! }
-      return (range1[0]...range1[1],
-              range2[0]...range2[1])
-    }
-    return ranges.filter { $0.0.overlaps($0.1) }.count
+    return try ranges.parse(input().raw)
   }
 
   func run() async throws -> (Int, Int) {
-    let p1 = try await part1()
-    let p2 = try await part2()
+    let ranges = try parse()
+    let p1 = ranges.filter(intersect).count
+    let p2 = ranges.filter { $0.0.overlaps($0.1) }.count
     return (p1, p2)
   }
 }
