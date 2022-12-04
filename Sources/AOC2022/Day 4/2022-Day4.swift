@@ -8,7 +8,7 @@
 import Parsing
 
 class Day4: Day {
-  func parse() throws -> [(ClosedRange<Int>, ClosedRange<Int>)] {
+  let ranges = {
     let range = Parse(ClosedRange.init(uncheckedBounds:)) {
       Int.parser()
       "-".utf8
@@ -19,16 +19,15 @@ class Day4: Day {
       ",".utf8
       range
     }
-    let ranges = Many {
+    return Many {
       twoRanges
     } separator: {
       "\n".utf8
     }
-    return try ranges.parse(input().raw)
-  }
+  }()
 
   func run() async throws -> (Int, Int) {
-    let ranges = try parse()
+    let ranges = try ranges.parse(input().raw)
     let p1 = ranges.filter(intersect).count
     let p2 = ranges.filter { $0.0.overlaps($0.1) }.count
     return (p1, p2)
