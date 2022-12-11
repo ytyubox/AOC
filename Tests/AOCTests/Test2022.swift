@@ -7,6 +7,7 @@
 //
 
 @testable import AOC2022
+import Parsing
 import XCTest
 
 @MainActor
@@ -100,7 +101,7 @@ class Test2022: XCTestCase {
 //                   ######......######......######......####
 //                   #######.......#######.......#######.....
 //                   """)
-        XCTAssertEqual(p1, 14320)
+    XCTAssertEqual(p1, 14320)
     XCTAssertEqual(p2,
                    """
                    ###...##..###..###..#..#..##..###....##.
@@ -110,7 +111,6 @@ class Test2022: XCTestCase {
                    #....#..#.#....#..#.#.#..#..#.#....#..#.
                    #.....##..#....###..#..#.#..#.#.....##..
                    """)
-  
   }
 
   func testDay10() async throws {
@@ -125,8 +125,22 @@ class Test2022: XCTestCase {
     let d = Day11()
     let (p1, p2) = try await d.run()
 
-    XCTAssertEqual(p1, "")
-    XCTAssertEqual(p2, "")
+    XCTAssertEqual(p1, 10605)
+        XCTAssertEqual(p2, 2713310158)
+//    XCTAssertEqual(p1, 108240)
+    //    XCTAssertEqual(p2, "")
+  }
+
+  func testDay11Parse() throws {
+    let raw =
+      """
+        Operation: new = old * 19
+      """
+    let parse = Parse {
+      "  Operation: new = "
+      Prefix { $0 != "\n" }.map(String.init)
+    }
+    XCTAssertEqual(try parse.parse(raw), "old * 19")
   }
 
   func testDay12() async throws {
