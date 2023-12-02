@@ -1,4 +1,0 @@
-module AOC2020 {
-    header "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2020.build/AOC2020-Swift.h"
-    requires objc
-}

@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.2 clang-1300.0.29.30)"
-options: "2bfca134540cc629d58edf7afea486b4186e9c3c8057955fe2911729c57e9ec3"
-build_start_time: [1639479573, 284106969]
-build_end_time: [1639479573, 480993032]
-inputs:
-  "/Users/tsungyu/code/AOC/Sources/advent/main.swift": [1639478728, 199500083]

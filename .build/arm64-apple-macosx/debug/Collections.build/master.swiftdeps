@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
-options: "6f59e6c5999dc902961eae615985497db2a88a3e100628f97e49f6e75b5bce30"
-build_start_time: [1669887623, 490844964]
-build_end_time: [1669887623, 530658006]
-inputs:
-  "/Users/tsungyu/code/AOC/.build/checkouts/swift-collections/Sources/Collections/Collections.swift": [1639479518, 294893264]
