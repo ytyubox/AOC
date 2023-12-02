@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "2ec067e534ee3c9c67aaa18ba0213f56ab639e9bb19e4400fbd378496a56401a"
+build_start_time: [1669887636, 607135057]
+build_end_time: [1669887636, 724673986]
+inputs:
+  "/Users/tsungyu/code/AOC/Sources/AOC/AOC.swift": [1669887573, 895369291]

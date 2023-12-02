@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "712ed11d5b78dcc636b94b98895d6608d5477f02a278c4a644051ace4aa7f0a8"
+build_start_time: [1669887636, 760785102]
+build_end_time: [1669887636, 919290065]
+inputs:
+  "/Users/tsungyu/code/AOC/Sources/advent/main.swift": [1669887573, 932501316]

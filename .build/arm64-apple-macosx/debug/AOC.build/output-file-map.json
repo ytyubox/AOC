@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC.build/master.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC/AOC.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC.build/AOC.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC.build/AOC.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC.build/AOC~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC.build/AOC.swiftdeps"
+  }
+}

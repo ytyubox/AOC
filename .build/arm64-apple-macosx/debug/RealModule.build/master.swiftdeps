@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "3019feb865d272bf427cb03b6f9012eb765dea6f80612e3daff191f9b97c59a4"
+build_start_time: [1669887623, 515913009]
+build_end_time: [1669887623, 685245990]
+inputs:
+  "/Users/tsungyu/code/AOC/.build/checkouts/swift-numerics/Sources/RealModule/AlgebraicField.swift": [1669887618, 584745407]
+  "/Users/tsungyu/code/AOC/.build/checkouts/swift-numerics/Sources/RealModule/ApproximateEquality.swift": [1669887618, 584846019]
+  "/Users/tsungyu/code/AOC/.build/checkouts/swift-numerics/Sources/RealModule/AugmentedArithmetic.swift": [1669887618, 584914445]
+  "/Users/tsungyu/code/AOC/.build/checkouts/swift-numerics/Sources/RealModule/Double+Real.swift": [1669887618, 585092067]
+  "/Users/tsungyu/code/AOC/.build/checkouts/swift-numerics/Sources/RealModule/ElementaryFunctions.swift": [1669887618, 585189819]
+  "/Users/tsungyu/code/AOC/.build/checkouts/swift-numerics/Sources/RealModule/Float+Real.swift": [1669887618, 585282802]
+  "/Users/tsungyu/code/AOC/.build/checkouts/swift-numerics/Sources/RealModule/Float16+Real.swift": [1669887618, 585389137]
+  "/Users/tsungyu/code/AOC/.build/checkouts/swift-numerics/Sources/RealModule/Float80+Real.swift": [1669887618, 585508346]
+  "/Users/tsungyu/code/AOC/.build/checkouts/swift-numerics/Sources/RealModule/Real.swift": [1669887618, 585723876]
+  "/Users/tsungyu/code/AOC/.build/checkouts/swift-numerics/Sources/RealModule/RealFunctions.swift": [1669887618, 585819244]

@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "b091d98967d2da943dab04ba80465d3d259e9350faa8bc382c98fc4b8786509a"
+build_start_time: [1669887632, 935554027]
+build_end_time: [1669887639, 219362020]
+inputs:
+  "/Users/tsungyu/code/AOC/Tests/AOCCoreTests/TestCircularList.swift": [1669887573, 932600259]
+  "/Users/tsungyu/code/AOC/Tests/AOCCoreTests/TestGraph.swift": [1669887573, 932667016]
+  "/Users/tsungyu/code/AOC/Tests/AOCCoreTests/TestPoint.swift": [1669887573, 932719707]
+  "/Users/tsungyu/code/AOC/Tests/AOCCoreTests/TestScanner.swift": [1669887573, 932773351]
+  "/Users/tsungyu/code/AOC/Tests/AOCCoreTests/TestString.swift": [1669887573, 932831764]
+  "/Users/tsungyu/code/AOC/Tests/AOCCoreTests/TestVector.swift": [1669887573, 932891368]

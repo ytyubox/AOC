@@ -1,0 +1,4 @@
+module AOC2015 {
+    header "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/AOC2015-Swift.h"
+    requires objc
+}

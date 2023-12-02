@@ -1,0 +1,78 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "ddmathparser",
+          "kind" : "remoteSourceControl",
+          "location" : "git@github.com:davedelong/DDMathParser.git",
+          "name" : "MathParser"
+        },
+        "state" : {
+          "checkoutState" : {
+            "branch" : "master",
+            "revision" : "6f5bd1281216200dfb96998836fcb35ef7cd024e"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "DDMathParser"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-algorithms",
+          "kind" : "remoteSourceControl",
+          "location" : "git@github.com:apple/swift-algorithms.git",
+          "name" : "swift-algorithms"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "b14b7f4c528c942f121c8b860b9410b2bf57825e",
+            "version" : "1.0.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-algorithms"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-collections",
+          "kind" : "remoteSourceControl",
+          "location" : "git@github.com:apple/swift-collections.git",
+          "name" : "swift-collections"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "48254824bb4248676bf7ce56014ff57b142b77eb",
+            "version" : "1.0.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-collections"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "swift-numerics",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/apple/swift-numerics",
+          "name" : "swift-numerics"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "0a5bc04095a675662cf24757cc0640aa2204253b",
+            "version" : "1.0.2"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "swift-numerics"
+      }
+    ]
+  },
+  "version" : 5
+}

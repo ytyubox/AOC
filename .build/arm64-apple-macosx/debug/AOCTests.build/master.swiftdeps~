@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.2 clang-1300.0.29.30)"
+options: "cb235895475c2500f4951e933b51360f06a4242369f994a53cef69ad646606be"
+build_start_time: [1639479593, 208482027]
+build_end_time: [1639479596, 206575870]
+inputs:
+  "/Users/tsungyu/code/AOC/Tests/AOCTests/AOCTestCase.swift": [1639478728, 199652433]
+  "/Users/tsungyu/code/AOC/Tests/AOCTests/Test2015.swift": [1639478728, 199749469]
+  "/Users/tsungyu/code/AOC/Tests/AOCTests/Test2016.swift": [1639478728, 199815273]
+  "/Users/tsungyu/code/AOC/Tests/AOCTests/Test2017.swift": [1639478728, 199901580]
+  "/Users/tsungyu/code/AOC/Tests/AOCTests/Test2018.swift": [1639478728, 199979543]
+  "/Users/tsungyu/code/AOC/Tests/AOCTests/Test2019.swift": [1639478728, 200050592]
+  "/Users/tsungyu/code/AOC/Tests/AOCTests/Test2020.swift": [1639478728, 200141429]
+  "/Users/tsungyu/code/AOC/Tests/AOCTests/Test2021.swift": [1639478728, 200212478]
+  "/Users/tsungyu/code/AOC/Tests/AOCTests/XCTestManifests.swift": [1639478728, 200270652]

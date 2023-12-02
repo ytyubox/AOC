@@ -1,0 +1,4 @@
+module AOCCore {
+    header "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCore.build/AOCCore-Swift.h"
+    requires objc
+}

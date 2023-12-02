@@ -1,0 +1,161 @@
+{
+  "": {
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/master.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/2015.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/2015.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/2015.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/2015~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/2015.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 1/2015-Day1.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 1/2015-Day1.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 1/2015-Day1.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 1/2015-Day1~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 1/2015-Day1.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 10/2015-Day10.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 10/2015-Day10.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 10/2015-Day10.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 10/2015-Day10~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 10/2015-Day10.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 11/2015-Day11.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 11/2015-Day11.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 11/2015-Day11.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 11/2015-Day11~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 11/2015-Day11.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 12/2015-Day12.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 12/2015-Day12.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 12/2015-Day12.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 12/2015-Day12~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 12/2015-Day12.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 13/2015-Day13.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 13/2015-Day13.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 13/2015-Day13.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 13/2015-Day13~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 13/2015-Day13.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 14/2015-Day14.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 14/2015-Day14.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 14/2015-Day14.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 14/2015-Day14~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 14/2015-Day14.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 15/2015-Day15.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 15/2015-Day15.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 15/2015-Day15.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 15/2015-Day15~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 15/2015-Day15.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 16/2015-Day16.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 16/2015-Day16.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 16/2015-Day16.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 16/2015-Day16~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 16/2015-Day16.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 17/2015-Day17.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 17/2015-Day17.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 17/2015-Day17.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 17/2015-Day17~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 17/2015-Day17.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 18/2015-Day18.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 18/2015-Day18.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 18/2015-Day18.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 18/2015-Day18~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 18/2015-Day18.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 19/2015-Day19.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 19/2015-Day19.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 19/2015-Day19.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 19/2015-Day19~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 19/2015-Day19.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 2/2015-Day2.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 2/2015-Day2.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 2/2015-Day2.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 2/2015-Day2~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 2/2015-Day2.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 20/2015-Day20.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 20/2015-Day20.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 20/2015-Day20.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 20/2015-Day20~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 20/2015-Day20.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 21/2015-Day21.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 21/2015-Day21.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 21/2015-Day21.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 21/2015-Day21~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 21/2015-Day21.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 22/2015-Day22.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 22/2015-Day22.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 22/2015-Day22.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 22/2015-Day22~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 22/2015-Day22.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 23/2015-Day23.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 23/2015-Day23.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 23/2015-Day23.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 23/2015-Day23~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 23/2015-Day23.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 24/2015-Day24.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 24/2015-Day24.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 24/2015-Day24.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 24/2015-Day24~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 24/2015-Day24.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 25/2015-Day25.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 25/2015-Day25.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 25/2015-Day25.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 25/2015-Day25~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 25/2015-Day25.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 3/2015-Day3.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 3/2015-Day3.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 3/2015-Day3.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 3/2015-Day3~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 3/2015-Day3.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 4/2015-Day4.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 4/2015-Day4.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 4/2015-Day4.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 4/2015-Day4~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 4/2015-Day4.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 5/2015-Day5.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 5/2015-Day5.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 5/2015-Day5.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 5/2015-Day5~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 5/2015-Day5.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 6/2015-Day6.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 6/2015-Day6.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 6/2015-Day6.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 6/2015-Day6~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 6/2015-Day6.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 7/2015-Day7.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 7/2015-Day7.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 7/2015-Day7.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 7/2015-Day7~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 7/2015-Day7.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 8/2015-Day8.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 8/2015-Day8.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 8/2015-Day8.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 8/2015-Day8~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 8/2015-Day8.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Sources/AOC2015/Day 9/2015-Day9.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 9/2015-Day9.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 9/2015-Day9.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 9/2015-Day9~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOC2015.build/Day 9/2015-Day9.swiftdeps"
+  }
+}

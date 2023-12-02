@@ -1,0 +1,4 @@
+module MathParser {
+    header "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/MathParser.build/MathParser-Swift.h"
+    requires objc
+}

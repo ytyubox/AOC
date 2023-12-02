@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/master.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Tests/AOCCoreTests/TestCircularList.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestCircularList.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestCircularList.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestCircularList~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestCircularList.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Tests/AOCCoreTests/TestGraph.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestGraph.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestGraph.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestGraph~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestGraph.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Tests/AOCCoreTests/TestPoint.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestPoint.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestPoint.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestPoint~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestPoint.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Tests/AOCCoreTests/TestScanner.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestScanner.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestScanner.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestScanner~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestScanner.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Tests/AOCCoreTests/TestString.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestString.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestString.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestString~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestString.swiftdeps"
+  },
+  "/Users/tsungyu/code/AOC/Tests/AOCCoreTests/TestVector.swift": {
+    "dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestVector.d",
+    "object": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestVector.swift.o",
+    "swiftmodule": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestVector~partial.swiftmodule",
+    "swift-dependencies": "/Users/tsungyu/code/AOC/.build/arm64-apple-macosx/debug/AOCCoreTests.build/TestVector.swiftdeps"
+  }
+}
