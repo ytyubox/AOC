@@ -11,7 +11,10 @@ class Day1: Day {
     static var rawInput: String? { nil }
 
     func part1() async throws -> String {
-        return #function
+      print(
+      input()
+        .lines)
+      return ""
     }
 
     func part2() async throws -> String {
